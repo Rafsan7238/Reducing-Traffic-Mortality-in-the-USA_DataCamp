@@ -9,3 +9,5 @@ Per request of the US Department of Transportation, we are currently investigati
 To accomplish these tasks, we made use of data wrangling, plotting, dimensionality reduction, and unsupervised clustering.
 
 The data given to us was originally collected by the National Highway Traffic Safety Administration and the National Association of Insurance Commissioners. This particular dataset was compiled and released as a <a href='https://github.com/fivethirtyeight/data/tree/master/bad-drivers'>CSV-file</a> by FiveThirtyEight under the <a href='https://github.com/%EF%AC%81vethirtyeight/data'>CC-BY4.0 license</a>.
+
+To know more about the project, please visit the <a href='https://projects.datacamp.com/projects/462'>project page</a> on DataCamp. 
